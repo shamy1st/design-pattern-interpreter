@@ -1,5 +1,5 @@
 # Interpreter Design Pattern (Java)
-**Interpreter** 
+**Interpreter** specifies how to evaluate sentences in a language.
 ![](https://github.com/shamy1st/design-pattern-interpreter/blob/main/uml.png)
 
 ### Problem:
